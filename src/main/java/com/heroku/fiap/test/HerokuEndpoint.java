@@ -8,6 +8,6 @@ public class HerokuEndpoint {
 
     @RequestMapping(path = "/")
     public String hello25ASO() {
-        return "Hello 25ASO from ariielm on Heroky PaaS ;)";
+        return "Hello 25ASO from Heroku PaaS ;)";
     }
 }
